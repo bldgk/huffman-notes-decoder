@@ -1,0 +1,10 @@
+W:\Projects\githubprojects\Huffman\HuffmanLibrary\bin\Debug\HuffmanLibrary.dll
+W:\Projects\githubprojects\Huffman\HuffmanLibrary\bin\Debug\HuffmanLibrary.pdb
+W:\Projects\githubprojects\Huffman\HuffmanLibrary\obj\Debug\HuffmanLibrary.csprojResolveAssemblyReference.cache
+W:\Projects\githubprojects\Huffman\HuffmanLibrary\obj\Debug\HuffmanLibrary.dll
+W:\Projects\githubprojects\Huffman\HuffmanLibrary\obj\Debug\HuffmanLibrary.pdb
+W:\Projects\githubprojects\CourseWork\Huffman\HuffmanLibrary\bin\Debug\HuffmanLibrary.dll
+W:\Projects\githubprojects\CourseWork\Huffman\HuffmanLibrary\bin\Debug\HuffmanLibrary.pdb
+W:\Projects\githubprojects\CourseWork\Huffman\HuffmanLibrary\obj\Debug\HuffmanLibrary.dll
+W:\Projects\githubprojects\CourseWork\Huffman\HuffmanLibrary\obj\Debug\HuffmanLibrary.pdb
+W:\Projects\githubprojects\CourseWork\Huffman\HuffmanLibrary\obj\Debug\HuffmanLibrary.csprojResolveAssemblyReference.cache
